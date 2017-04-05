@@ -1,2 +1,1 @@
-# UChicago_CS_ML
-# UChicago_CS_ML
+# The idea of this repository is to publish the homeworks of the Machine Learning class
